@@ -48,11 +48,11 @@
 <stop offset="0.5749"/>
 </linearGradient>
 <linearGradient id="paint1_linear_5_84" x1="256.654" y1="511.377" x2="256.456" y2="40.993" gradientUnits="userSpaceOnUse">
-<stop stop-color="#b28787"/>
-<stop offset="0.1536" stop-color="#B03434"/>
-<stop offset="0.2989" stop-color="#B03434"/>
-<stop offset="0.4944" stop-color="#B03434"/>
-<stop offset="0.7514" stop-color="#B03434"/>
+<stop stop-color="#DA9F9F"/>
+<stop offset="0.1536" stop-color="#C36464"/>
+<stop offset="0.2989" stop-color="#BE5858"/>
+<stop offset="0.4944" stop-color="#B94C4C"/>
+<stop offset="0.7514" stop-color="#B54040"/>
 <stop offset="1" stop-color="#B03434"/>
 </linearGradient>
 <clipPath id="clip0_5_84">
