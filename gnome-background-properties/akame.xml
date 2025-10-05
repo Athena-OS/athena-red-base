@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Akame</name>
-    <filename>/usr/share/backgrounds/athena/akame.jpg</filename>
-    <filename-dark>/usr/share/backgrounds/athena/akame.jpg</filename-dark>
+    <filename>/usr/share/backgrounds/athena/akame.png</filename>
+    <filename-dark>/usr/share/backgrounds/athena/akame.png</filename-dark>
     <options>stretched</options>
     <shade_type>solid</shade_type>
     <pcolor>#A94163</pcolor>

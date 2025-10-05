@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Murasame</name>
-    <filename>/usr/share/backgrounds/athena/murasame.jpg</filename>
-    <filename-dark>/usr/share/backgrounds/athena/murasame.jpg</filename-dark>
+    <filename>/usr/share/backgrounds/athena/murasame.png</filename>
+    <filename-dark>/usr/share/backgrounds/athena/murasame.png</filename-dark>
     <options>stretched</options>
     <shade_type>solid</shade_type>
     <pcolor>#A94163</pcolor>
